@@ -1,1 +1,1 @@
-# WQA_Regression_HW2
+### Análise exploratória do [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality "Title") . Confira o [artigo que ecrevemos](https://drive.google.com/file/d/1Cde38XIVgshfduZXWxv27ez6mtQWq93d/view?usp=sharing).
